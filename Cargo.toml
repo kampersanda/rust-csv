@@ -18,7 +18,7 @@ travis-ci = { repository = "BurntSushi/rust-csv" }
 appveyor = { repository = "BurntSushi/rust-csv" }
 
 [workspace]
-members = ["csv-core", "csv-index"]
+members = ["csv-core", "csv-index", "experiment"]
 
 [lib]
 bench = false
